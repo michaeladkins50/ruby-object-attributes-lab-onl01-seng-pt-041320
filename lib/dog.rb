@@ -6,7 +6,7 @@ class Dog
   def name
     @this_dog_name
   end
-  
+
   def breed
     @breed
   end
